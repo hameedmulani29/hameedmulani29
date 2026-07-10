@@ -139,8 +139,7 @@ A civic-tech inspired secure voting platform modeled on India's ECI structure, w
 <img src="https://raw.githubusercontent.com/hameedmulani29/hameedmulani29/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
-
-> ⚠️ **Setup required for the snake to appear** — see instructions below.
+<!-- ⚠️ **Setup required for the snake to appear** — see instructions below.-->
 
 ---
 
