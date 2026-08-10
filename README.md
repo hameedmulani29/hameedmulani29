@@ -58,13 +58,13 @@ class Hameed:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-<!--![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)*/-->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Databases**
 
-<!--![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)-->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-<!--![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)-->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI / Agentic Tooling**
 
@@ -121,10 +121,10 @@ A civic-tech inspired secure voting platform modeled on India's ECI structure, w
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hameedmulani29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hameedmulani29&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hameedmulani29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hameedmulani29&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hameedmulani29&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=hameedmulani29&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hameedmulani29&theme=tokyo-night&hide_border=true" />
 
@@ -139,7 +139,8 @@ A civic-tech inspired secure voting platform modeled on India's ECI structure, w
 <img src="https://raw.githubusercontent.com/hameedmulani29/hameedmulani29/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
-<!-- ⚠️ **Setup required for the snake to appear** — see instructions below.-->
+
+> ⚠️ **Setup required for the snake to appear** — see instructions below.
 
 ---
 
